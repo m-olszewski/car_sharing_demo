@@ -1,0 +1,10 @@
+:root {
+    --primaryColor: #FF0000;
+    --secondlyColor: #ffffff;
+    --thirdlyColor: #000000;
+    --fourlyColor: #6A6A6A;
+    --darkeningColor: #00000033;
+    --mainFontFamily: 'Nunito Sans', sans-serif;
+    --secondlyFontFamily: 'Open Sans', sans-serif;
+    --containerWidth: 1088px;
+}
